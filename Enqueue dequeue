@@ -1,4 +1,4 @@
-//Binary search tree 
+//enqueue dequeue 
 #include<stdio.h>
 #include<conio.h>
 #define SIZE 10
